@@ -1,0 +1,18 @@
+body{
+    margin: 10%;
+    padding: 0%;
+    background-color: purple;
+    background: blue;
+}
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40%;
+    position: absolute;
+    color: aquamarine;
+    font-weight: bolder;
+    top: 40%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    font-size: 100px;
+    white-space: nowrap;
+}
